@@ -210,7 +210,7 @@ const Main = () => {
                         </Nav>
                         <Nav>
                             <React.Fragment>
-                                <a className="links" style={{textDecoration: 'none', color: 'white', cursor:'pointer'}} onClick={() => window.location = 'mailto:horacio@mbgroup.com'}> Contacto </a>
+                                <a className="links" style={{textDecoration: 'none', color: 'white', cursor:'pointer'}} onClick={() => window.location = 'mailto:horacio@groupmyb.cl'}> Contacto </a>
                             </React.Fragment>
                         </Nav>
                     </Navbar.Collapse>

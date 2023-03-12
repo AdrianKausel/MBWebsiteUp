@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React  from "react";
 import foto from "../assets/notco/notco.jpg"
 import foto2 from "../assets/notco/notco2.jpg"
 import foto3 from "../assets/notco/notco3.jpg"
@@ -7,7 +7,6 @@ import foto5 from "../assets/notco/notco5.jpg"
 import foto6 from "../assets/notco/notco6.jpg"
 import foto7 from "../assets/notco/notco7.jpg"
 import ImageGallery from 'react-image-gallery';
-import Container from "react-bootstrap/esm/Container";
 
 
 const CarouselNotCo = () => {
