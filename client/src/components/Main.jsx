@@ -224,7 +224,7 @@ const Main = () => {
                         <path fill="#ddab71" fill-opacity="1" d="M0,128L1440,192L1440,0L0,0Z"></path>
                     </svg>
                 </div>
-                <video className="myVideo" autoplay muted playsinline loop>
+                <video className="myVideo" autoPlay="autoplay" playsInLine="playsinline" loop="true" muted="true">
                     <source src={backroundvideo} type='video/mp4' />
                 </video>   
                 <Container>
